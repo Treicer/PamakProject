@@ -1,4 +1,4 @@
-###PamakProject
+#PamakProject
 
 PamakProject is a blog/forum developed with Django where users can view posts from other users or they can register and post their own!
 
